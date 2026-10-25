@@ -1,0 +1,14 @@
+[
+    {
+        "interface": "Ethernet1/12",
+        "mac": "6C:4E:F6:89:EC:FF",
+        "ip": "10.111.50.1",
+        "age": -1.0
+    },
+    {
+        "interface": "Ethernet1/13",
+        "mac": "F4:CF:E2:E0:CF:41",
+        "ip": "10.111.60.1",
+        "age": 123.0
+    }
+]
